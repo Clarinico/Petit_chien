@@ -40,6 +40,3 @@ Mobilité importante de la tête moteur suffisamment grand;
 Réfléchir sur la maquette 3D comment les composants vont être agencé les composants à l’intérieur;
 Ajouter une enceinte pour les sons.
 
-
-
-Avancement :
