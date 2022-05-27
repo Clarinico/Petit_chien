@@ -1,0 +1,16 @@
+Le différents fichiers sont :
+	- servo-moteur.ino pour la partie sevo-moteur qui active la mâchoire du chien. 
+		Le but de ce fichier est d'activer les servo-moteurs qui vont contrôler la mâchoire
+		du chien ainsi que l'orientation de sa tête (hochement)
+		La porter des moteurs (angle min et angle max) ont été déterminés expérimentalement.
+		Lors de l'intégration de ces fichiers au projet il faudra créer des fonctions 
+		hochement (int angle_max, int vitesse) et aboiement (int vitesse) pour que le 
+		chien réalise ces actions en fonction du touché fait sur le silicone. 
+	- Muca.cpp et Muca.h pour la définition des fonctions utiles à la gestion des fils 
+		capacitive se trouvant sous silicone.
+	- silicone.ino Fichier non fonctionnel qui devait servir d'interface pour la gestion 
+	  	du silicone. Cependant nous n'avons pas eu le temps de mettre tout ceci en place. 
+		Lors de l'intégration de ce fichier au reste du projet il faudra définir les 
+		actions à faire si une zone de la tête est touchée ou s'il y a un glissement à sa
+		surface pour représenter une carresse. 
+

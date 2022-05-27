@@ -28,6 +28,7 @@ void loop()
 
   delay(2000);
 }
+//La position ouverte et fermée sont à déterminer expérimentalment
 
 /*
    /
