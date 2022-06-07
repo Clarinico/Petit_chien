@@ -6,7 +6,7 @@ Equipe :
 Souleymane Soumah
 Oumayma Madani
 Hassan Benbouhou
-Fatima Ennarici
+Fatima Ennaciri
 Amine Abelhad
 Nicolas Quesseveur
 
